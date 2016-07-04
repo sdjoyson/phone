@@ -1,0 +1,13 @@
+
+.thank
+{
+	margin:150px auto;	
+	width: 600px;
+	font-size: 25pt;
+	text-align: center;
+
+}
+.thank .active
+{
+	color: green;
+}
